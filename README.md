@@ -1,4 +1,4 @@
-### NiixU custom firmware for the Nintendo Wii U
+### NiixU custom firmware for the Nintendo Wii U (v1.9.1)
 
 This CFW allows for function with Aroma plugins as well as Legacy applications (ELF)
 A complicated venture I started so that applications like HID to VPAD and TCPGecko can still be used alongside Aroma plugins.
@@ -18,3 +18,7 @@ It is a custom version of Nintendont that allows it to function while running Ni
 The files for this can be found here https://github.com/lasagnapapa/nixtendont/releases
 
 The password for it can be found in our Discord server in #niixu-starterpack underneath the "NiixU" category.
+
+### 1.9.1 Changelog
+- Added patcher to fix legacy crashes after and before using the vWii
+- Added new Aroma module to use the allow TCPGecko to work properly with modchip
